@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔹 7+ years of experience in Software Development
+- 🔹 9+ years of experience in Software Development
 - 🔹 Strong background in PHP (Laravel, Yii2) & Node.js
 - 🔹 Transitioning into DevOps & Cloud Engineering
 - 🔹 Hands-on with AWS, Docker, CI/CD, Jenkins
@@ -17,6 +17,7 @@
 ## 🛠 Tech Stack
 
 ### 💻 Backend
+- C#
 - PHP (Laravel 6/8/10, Yii2, CI4)
 - Node.js
 - REST APIs
@@ -93,9 +94,9 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Add Your LinkedIn URL]
+- 💼 LinkedIn: https://www.linkedin.com/in/nausher-khan-go-ahead/
 - 🌐 Portfolio: https://bluenix.in
-- 📧 Email: [Your Professional Email]
+- 📧 Email: nausher.khan12@gmail.com
 
 ---
 
